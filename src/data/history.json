@@ -1,0 +1,15 @@
+[
+   {
+      "role": "IT Web Programming",
+      "organisation": "Nova Scotia Community College",
+      "startDate": "Sept, 2022",
+      "endDate": "April, 2024",
+      "experiences": [
+         "Studied multiple font end frameworks including React, Laravel, and ASP.NET",
+         "Studied both SQL and NoSQL databases",
+         "Created projects with the MERN stack",
+         "Was exposed to working in the cloud including AWS and Azure"
+      ],
+      "imageSrc": "history/education.png"
+   }
+]

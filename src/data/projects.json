@@ -1,0 +1,18 @@
+[
+   {
+      "title": "Course Map",
+      "imageSrc": "projects/Project1.png",
+      "description": "This is a project made to learn the ASP.NET framework by building an app to display some data coming from a SQL Database.",
+      "skills": ["C#", "SQL", "Azure", "ASP.NET"],
+      "demo": "https://w0468451-nscccoursemap.azurewebsites.net/Instructors",
+      "source": "https://github.com/NSCC-ITC-Winter2024-WEBD3000-700-MCa/nscccoursemap-DylanMill"
+   },
+   {
+      "title": "Stock React App",
+      "imageSrc": "projects/Project2.png",
+      "description": "This is a project made to learn the MERN stack by building an app that displays data from a NoSQL Database.",
+      "skills": ["React", "Express", "Node", "Sass", "NoSQL", "MongoDB"],
+      "demo": "https://w0468451-fullstack.onrender.com/",
+      "source": "https://github.com/NSCC-ITC-Fall2023-PROG3017-700-MCa/my-fullstack-app-DylanMill"
+   }
+]
