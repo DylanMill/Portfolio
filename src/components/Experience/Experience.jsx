@@ -28,6 +28,7 @@ export const Experience = () => {
                   return (
                      <li key={id} className={styles.historyItem}>
                         <img
+                           style={{ filter: "invert(100%)" }}
                            src={getImageUrl(historyItem.imageSrc)}
                            alt={`${historyItem.organisation} Logo`}
                         />
